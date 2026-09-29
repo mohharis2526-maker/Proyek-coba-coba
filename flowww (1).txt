@@ -1,0 +1,10 @@
+75000
+harga satuan buku =25000
+16000
+harga satuan pulpen =8000
+75000
+harga satuan flashdisk =75000
+total bayar =165834
+200000
+34166
+
